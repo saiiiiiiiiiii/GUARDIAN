@@ -1,0 +1,25 @@
+.nav-bg{
+    height: 10vh;
+    position: -webkit-sticky;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 1px 5px white;
+}
+.nav-links{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+}
+.nav-link{
+    padding: 1rem;
+    font-size: 2rem;
+    color: blanchedalmond;
+}
+.logo-holder{
+    font-size: 2rem;
+    padding-left: 1rem;
+    color: blanchedalmond;
+}
