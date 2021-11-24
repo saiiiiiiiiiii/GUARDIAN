@@ -1,0 +1,608 @@
+
+.desk_vid{
+    width: 100%;
+    
+    position: absolute;
+    left: 0;
+    object-fit: cover;
+    z-index: 0;
+    vertical-align: middle;
+    display:table-cell;
+    height:1000%;
+}
+.section1 .container .overlay h1{
+    text-align: center;
+    color:white;
+    font-size: 6rem;
+    width: 90%;
+    padding-left: 30rem;
+    font-weight: bolder;
+    padding-top: rem;
+    font-family: "neue_helveticabold", sans-serif, sans-serif;
+
+}
+.section1 .container .overlay p{
+    font-size: 2rem;
+    width: 90%;
+    padding-left: 12rem;
+    padding-top: 1.5rem;
+    font-family: "neue_helveticabold", sans-serif, sans-serif;
+}
+
+
+
+.section2{
+    height: 50rem;
+    background-color: white;
+
+}
+.section2 h2{
+    font-size: 5rem;
+    width: 90%;
+    line-height: 1.2;
+    font-weight: bolder;
+    
+   
+    margin-top: 0%;
+    text-align: center;
+    padding-top: 9rem;
+    padding-bottom: 0.05rem;
+    padding-left:9rem ;
+}
+.section2 p{
+    font-size: 2rem;
+    margin:3rem;
+    text-align: center;
+    width: 80%;
+    margin-left: 9rem;
+    margin-top: 1rem;
+}
+.section2 img{
+   
+    margin-left: 35rem;
+    
+}
+.section3{
+    height: rem;
+    background-color:black;
+    border-bottom: 1px solid white;
+    
+}
+.section3  h2{
+    color:white;
+    font-size: 7rem;
+    text-align: center;
+    line-height: 1;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    padding-top: 9rem;
+    padding-left: 15rem;
+}
+.section3 p{
+    font-size: 2rem;
+    width: 80%;
+    padding-left: 15rem;
+    text-align: center;
+    color:white;
+    padding-top: 1rem;
+    line-height: 1.5;
+
+}
+.section3 button a{
+    align-items: center;
+}
+.section4 {
+    background-color: black;
+    border-bottom: 1px solid white;
+    padding-left: 1rem;
+}
+.section4 h2{
+    text-align: left;
+    padding-left: 8rem;
+    font-size: 4.5rem;
+    width: 50%;
+    color: white;
+    padding-left: 5rem;
+    line-height: 6rem;
+    padding-top: 9rem;
+    font-weight: bold;
+    margin-left: 1rem;
+    padding-bottom: 2rem;
+}
+.section4 .row{
+    width: 100%;
+    padding-top: 3rem;
+    
+    
+    
+}
+.section4 .block1{
+    background-color:red;
+    width: 45%;
+    margin-left: 5rem;
+    margin-bottom: 6rem;
+    padding-bottom: 3rem;
+   
+    border-radius: 2rem;
+    padding-top: 2rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+.section4 .block1 h6{
+    color: white;
+    margin-left: 2rem; 
+    font-size: 4rem;
+    display: block;
+    
+
+}
+.section4 .block1 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section4 .block2{
+    background-color:seagreen;
+    width: 45%;
+    margin-left: 59rem;
+    margin-bottom: 5rem;
+    margin-top: -46.5rem;
+    padding-bottom: 5rem;
+    
+    border-radius: 2rem;
+    padding-top: 2rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+
+.section4 .block2 h6{
+    color: white;
+    margin-left: 2rem; 
+    font-size: 4rem;
+    display: block;
+
+}
+.section4 .block2 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section4 .block3{
+    background-color:blue;
+    width: 45%;
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+    margin-top:-1rem;
+    border-radius: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+.section4 .block3 h6{
+    color: white;
+    margin-left: 1.5rem; 
+    font-size: 4rem;
+    display: block;
+    width: 100%;
+    
+
+}
+.section4 .block3 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section4 .block4{
+    background-color:rgb(131, 139, 5);
+    width: 45%;
+    margin-left: 59rem;
+    margin-bottom: 5rem;
+    margin-top: -43rem;
+    border-radius: 2rem;
+    padding-bottom: 2.5rem;
+    padding-top: 2rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+
+.section4 .block4 h6{
+    color: white;
+    margin-left: 2rem; 
+    font-size: 4rem;
+    display: block;
+
+}
+.section4 .block4 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section4 .block5{
+    background-color:orchid;
+    width: 45%;
+    margin-left: 5rem;
+    margin-bottom: 5rem;
+    padding-bottom: 2.5rem;
+    margin-top: -1rem;
+    
+    border-radius: 2rem;
+    padding-top: 2rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+.section4 .block5 h6{
+    color: white;
+    margin-left: 2rem; 
+    font-size: 4rem;
+    display: block;
+    
+
+}
+.section4 .block5 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section4 .block6{
+    background-color:brown;
+    width: 45%;
+    margin-left: 59rem;
+    margin-bottom: 13rem;
+    margin-top: -47rem;
+    border-radius: 2rem;
+    padding-bottom: 6.5rem;
+    padding-top: 2rem;
+    border-bottom: 2px solid;
+    text-align: left;
+}
+
+.section4 .block6 h6{
+    color: white;
+    margin-left: 2rem; 
+    font-size: 4rem;
+    display: block;
+
+}
+.section4 .block6 p{
+    color:white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+    text-align: left;
+    border-top: 2px solid;
+    padding-top: 20rem;
+}
+.section5{
+    background-color: black;
+}
+.section5 h2{
+    text-align: center;
+    font-size: 5rem;
+    color: white;
+    padding-top: 7rem;
+    font-weight: bold;
+    padding-right: -1rem;
+}
+.section5 p{
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    width: 80%;
+    padding-left: 20rem;
+    padding-top: 2rem;
+    padding-right: 5rem;
+    margin-left: 3rem;
+
+}
+.section5 .row1{
+    margin:0;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding-top: 5rem;
+    
+}
+.section5 .row1 .google {
+    padding-right: 10rem;
+    
+}
+.section5 .row1 .oracle {
+    padding-right: 10rem;
+}
+
+.section5 .row2{
+    margin:0;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    display: flex;
+    padding-bottom: 4rem;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding-top: 5rem;
+}
+.section5 .row2 .ibm{
+    padding-right: 15rem;
+    
+}
+.section5 .row2 .amazon{
+    padding-right: 15rem;
+    
+}
+.section5 .row2 .globant{
+    padding-right: 15rem;
+    
+}
+
+
+.section6 {
+    background-color: white;
+}
+.section6 .container {
+    padding-top: 10rem;
+    margin-left: 5rem;
+    width: 60%;
+    box-sizing: border-box;
+}
+.section6 .container h2{
+    font-size: 4rem;
+    margin-bottom: 4rem;
+    line-height: 5rem;
+    font-weight: bolder;
+    padding-right: rem;
+    margin-top: 5rem;
+}
+.section6 .container p{
+    font-size: 2rem;
+    width: 100%;
+
+
+}
+.section6 .container img{
+    height: 70rem;
+    width: 35rem;
+    padding-top: 7rem;
+    margin-left: 70rem;
+    margin-top: -55rem;
+    
+    
+
+}
+
+.section7{
+    background-color: black;
+    border-bottom: 2px solid;
+}
+.section7 .container{
+    margin-left: 4rem;
+    
+    
+}
+.section7 .container .sai {
+    color: white;
+    padding-top: 5rem;
+    text-align: left;
+    padding-top: 7rem;
+}
+.section7 .container .sai h2{
+    font-size: 6rem;
+    width: 90%;
+    font-weight: bolder;
+    width: 70%;
+}
+.section7 .container .sai p{
+    font-size: 2rem;
+    width: 60%;
+    margin-top: 1.5rem;
+}
+.section7 .container .images{
+    margin-top: 40rem;
+}
+.section7 .container .container1 {
+    padding-top: 5rem;
+    width: 100%;
+   
+}
+.section7 .container .container1 .image1{
+    width: 35%;
+}
+
+
+.section7 .container .container1 .image1 img{
+    background-color: red;
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image1 h6 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image1 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 80%;
+    
+}
+.section7 .container .container1 .image2{
+    margin-left: 36rem;
+    width: 35%;
+    margin-top: -28rem;
+
+}
+
+
+.section7 .container .container1 .image2 img{
+    background-color:green;
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image2 h6 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 3.5rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image2 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 80%;
+    
+}
+.section7 .container .container1 .image3{
+    margin-left: 60rem;
+    width: 40%;
+    margin-top: -28rem;
+    padding-left: 12rem;
+}
+
+
+.section7 .container .container1 .image3 img{
+    background-color: brown;
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image3 h6 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4rem;
+    padding-top: -2rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image3 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 90%;
+    
+    
+}
+.section7 .container .container1 .image4{
+    width: 35%;
+    padding-top: 3rem;
+    
+}
+
+.section7 .container .container1 .image4 img{
+    background-color: rgb(139, 139, 6);
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image4 h6 {
+    font-size: 2rem;
+    color: white;
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image4 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 70%;
+    
+}
+.section7 .container .container1 .image5{
+    margin-left: 36rem;
+    width: 35%;
+    margin-top: -28rem;
+
+}
+
+
+.section7 .container .container1 .image5 img{
+    background-color:blue;
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image5 h6 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image5 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 80%;
+    
+}
+.section7 .container .container1 .image6{
+    margin-left: 60rem;
+    width: 40%;
+    margin-top: -26rem;
+    padding-left: 12rem;
+
+}
+
+.section7 .container .container1 .image6 img{
+    background-color: palevioletred;
+    width:10rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+.section7 .container .container1 .image6 h6 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+.section7 .container .container1 .image6 p {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+    line-height: 2rem;
+    width: 90;
+}
+
+
+
+
+
+   
+
+

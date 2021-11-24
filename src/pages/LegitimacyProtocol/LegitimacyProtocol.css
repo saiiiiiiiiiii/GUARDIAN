@@ -1,0 +1,52 @@
+.desk_vid{
+    width: 100%;
+    
+    position: absolute;
+    left: 0;
+    object-fit: cover;
+    z-index: 0;
+    vertical-align: middle;
+    display:table-cell;
+    height:1000%;
+}
+.section{
+    height: 1000%;
+}
+
+.container video {
+    
+    z-index:-1;
+    overflow-x: hidden;
+    width: 100;
+    height: 120%;
+    padding: 0;
+}
+.overlay {
+    position:absolute;
+    box-sizing: border-box;
+    margin-top: 10rem;
+    text-align: center;
+    color:white;
+    margin-right: 5rem;
+    font-weight: bold;
+   
+}
+.overlay h1{
+    color:white;
+    font-size: 7rem;
+    font-weight: normal !important;
+    line-height: 1;
+    margin-left: -9rem;
+    padding-bottom: 0.05rem;
+    overflow-wrap:break-word ;
+    text-align: center;
+    
+    margin-top: 15rem;
+    font-family: "neue_helveticabold", sans-serif, sans-serif;
+    
+}
+.overlay p{
+    font-size: 2rem;
+    margin-right: 10rem;
+
+}
