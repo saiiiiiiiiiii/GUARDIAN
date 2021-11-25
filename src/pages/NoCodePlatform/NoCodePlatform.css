@@ -1,31 +1,41 @@
 
-.desk_vid{
+.section1 .container .desk_vid{
+    height: 100%;
     width: 100%;
-    
-    position: absolute;
-    left: 0;
+    position: relative;
+    left:0;
     object-fit: cover;
-    z-index: 0;
-    vertical-align: middle;
-    display:table-cell;
-    height:1000%;
+    z-index: 1;
+    display: block;
+
+   
+    
 }
-.section1 .container .overlay h1{
+.section1 .container .overlay{
     text-align: center;
+}
+.section1 .container .overlay  h1{
+    text-align: center;
+    z-index: 2;
+    position: absolute;
     color:white;
     font-size: 6rem;
     width: 90%;
-    padding-left: 30rem;
+    padding-left: 13rem;
     font-weight: bolder;
-    padding-top: rem;
+    margin-top: -40rem;
     font-family: "neue_helveticabold", sans-serif, sans-serif;
 
 }
 .section1 .container .overlay p{
     font-size: 2rem;
     width: 90%;
+    color: white;
+    z-index: 2;
+    position: absolute;
+    
     padding-left: 12rem;
-    padding-top: 1.5rem;
+    padding-top: 6rem;
     font-family: "neue_helveticabold", sans-serif, sans-serif;
 }
 
@@ -33,7 +43,9 @@
 
 .section2{
     height: 50rem;
-    background-color: white;
+    background-color:white;
+    margin-top: -23rem;
+    border-bottom: 2px solid white;
 
 }
 .section2 h2{
@@ -48,6 +60,7 @@
     padding-top: 9rem;
     padding-bottom: 0.05rem;
     padding-left:9rem ;
+    color: white;
 }
 .section2 p{
     font-size: 2rem;
@@ -56,6 +69,7 @@
     width: 80%;
     margin-left: 9rem;
     margin-top: 1rem;
+    color: white;
 }
 .section2 img{
    

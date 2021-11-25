@@ -15,7 +15,7 @@ const Navbar = () => {
             
             <li className="nav-link"><Link style={{color:"inherit",textDecoration:"inherit"}} to="/aboutus">About Us</Link></li>
             <li className="nav-link"><Link style={{color:"inherit",textDecoration:"inherit"}} to="/nocodeplatform">No-CodePlatform</Link></li>
-            <li className="nav-link"><Link style={{color:"inherit",textDecoration:"inherit"}} to="/legitimacyplatform">Legitimacy Protocol</Link></li>
+            <li className="nav-link"><Link style={{color:"inherit",textDecoration:"inherit"}} to="/legitimacyprotocol">Legitimacy Protocol</Link></li>
             <li className="nav-link"><Link style={{color:"inherit",textDecoration:"inherit"}} to="/partners">Partners</Link></li>
             </ul>
             
