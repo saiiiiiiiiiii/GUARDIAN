@@ -10,7 +10,7 @@ import Home from './pages/Home/Home';
 function App() {
   return (
     <BrowserRouter>
-    <Navbar/>
+      <Navbar/>  
     <Routes>
       <Route path="aboutus" element={<AboutUs/>}/>
       <Route path="nocodeplatform" element={<NoCodePlatform/>}/>
