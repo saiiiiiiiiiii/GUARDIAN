@@ -12,11 +12,12 @@ function App() {
     <BrowserRouter>
       <Navbar/>  
     <Routes>
+    <Route path="home" element={<Home/>}/>
       <Route path="aboutus" element={<AboutUs/>}/>
       <Route path="nocodeplatform" element={<NoCodePlatform/>}/>
       <Route path="legitimacyprotocol" element={<LegitimacyProtocol/>}/>
       <Route path="partners" element={<Partners/>}/>
-      <Route path="home" element={<Home/>}/>
+      
     </Routes>
     </BrowserRouter>
   );
