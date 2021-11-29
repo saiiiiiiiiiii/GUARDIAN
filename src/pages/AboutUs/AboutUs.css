@@ -8,16 +8,16 @@
     border: 0.6rem solid red;
     border-radius:50%;
     z-index:2;
-    margin-left: 24em;
+    margin-left: 28em;
     max-width:20%;
     margin-top:13rem;
     right:1rem;
 }
 .section-1 .main-text{
     color:black;
-    margin-left:28rem;
+    margin-left:32rem;
     font-size: 3.5em;
-    margin-top: -4.5rem;
+    margin-top: -4rem;
 
 }
 .section-1 .para1{
@@ -146,7 +146,7 @@
     border-left:2px solid red;
     height:12rem;
     margin-left: 29rem;
-    margin-top: -5rem;
+    margin-top: -4.6rem;
     
 }
 .section-2 .main-text6{
@@ -182,17 +182,17 @@
     text-align:left;
     margin-left:0;
     width:15%;
-    margin-left:17rem;
-    margin-top: -4rem;
+    margin-left:16rem;
+    margin-top: -3rem;
     border-top:2px solid red;
     
 }
 .section-2 .vl-2{
     border-left:2px solid red;
     height:12rem;
-    margin-left: 29rem;
+    
     margin-top: -0.2rem;
-    margin-left:17rem;
+    margin-left:16rem;
 }
 .section-2 .roun_icon5{
     vertical-align:middle;
@@ -204,7 +204,7 @@
     border: 0.1rem solid white;
     border-radius:50%;
     z-index:2;
-    margin-left: 17.5em;
+    margin-left: 16.5em;
     max-width:20%;
     margin-top:-2rem;
     right:1rem;
@@ -228,7 +228,7 @@
     height:40rem;
     margin-top:-5rem;
     
-    margin-left:17rem;
+    margin-left:16rem;
 }
 .section-2 .roun_icon6{
     vertical-align:middle;
@@ -240,7 +240,7 @@
     border: 0.1rem solid red;
     border-radius:50%;
     z-index:2;
-    margin-left: 17.5em;
+    margin-left: 16.5em;
     max-width:20%;
     margin-top:-59rem;
     right:1rem;
@@ -269,7 +269,7 @@
     border: 0.1rem solid red;
     border-radius:50%;
     z-index:2;
-    margin-left: 17.5em;
+    margin-left: 16.5em;
     max-width:20%;
     margin-top:6em;
     right:1rem;
@@ -298,7 +298,7 @@
     border: 0.1rem solid red;
     border-radius:50%;
     z-index:2;
-    margin-left: 17.5em;
+    margin-left: 16.5em;
     max-width:20%;
     margin-top:7em;
     right:1rem;
@@ -317,19 +317,14 @@
     font-size: 1.1em;
     
 }
-.section-2 .vl-4{
-    border-left:2px solid black;
-    height:6rem;
-    margin-top:-5rem;
-    margin-left:17rem;
-}
+
 .section-2 {
-    padding-bottom: 2.5rem;
+    padding-bottom: 6rem;
     border: 1px solid black;
 }
 .section-3 .main-text{
     margin-top:1%;
-    margin-left: 29rem;
+    margin-left: 33rem;
     font-size: 3em;
     color:black;
 } 
@@ -341,7 +336,7 @@
    
     width:4rem;
     height: 4rem;
-    margin-left:36.5rem;
+    margin-left:40rem;
     background:white;
     border: 10px solid red;
     border-radius:50%;
@@ -352,8 +347,8 @@
     right:1rem;
 }
 .section-3 .main-text1{
-    margin-top:-6.9%;
-    margin-left: 40.5rem;
+    margin-top:-5%;
+    margin-left: 43.5rem;
     font-size: 3em;
     color:black;
     font-weight:bold ;
@@ -540,7 +535,7 @@
 .section-3 .name5{
     margin-left:34em;
     color:black;
-    margin-top:3rem;
+    margin-top:1.6rem;
 }
 .section-3 .para5{
     margin-top:1rem;
@@ -566,7 +561,7 @@
 }
 .section-3 .main-head{
     margin-top:5%;
-    margin-left: 28rem;
+    margin-left: 34rem;
     font-size: 3em;
     color:black;
     
@@ -579,7 +574,7 @@
    
     width:4rem;
     height: 4rem;
-    margin-left:42em;
+    margin-left:48em;
     background:white;
     border: 10px solid red;
     border-radius:50%;
@@ -589,8 +584,8 @@
     right:1rem;
 }
 .section-3 .main-head1{
-    margin-top:-6.5%;
-    margin-left: 15.2em;
+    margin-top:-5%;
+    margin-left: 17em;
     font-size: 3em;
     color:black;
     font-weight:bold ;
@@ -632,7 +627,7 @@
     margin-left: 37rem;
     border:1px solid #ddd;
     overflow:hidden;
-    margin-top: -31.5rem;
+    margin-top: -29rem;
 }
 
 .section-3 .image7{
@@ -662,7 +657,7 @@
     margin-left: 62rem;
     border:1px solid #ddd;
     overflow:hidden;
-    margin-top: -30.5rem;
+    margin-top: -29rem;
 }
 
 .section-3 .image8{
@@ -699,7 +694,7 @@
 .section-4 .para{
     max-width:60%;
     margin-top: 3em;
-    margin-left: 15em;
+    margin-left: 18em;
     color:black;
     line-height: 1.6;
 
@@ -709,7 +704,7 @@
     align-items: center;
     margin-top: 1.6rem;
    
-    margin-left: 34rem;
+    margin-left: 38rem;
    
     height:1rem;
  }

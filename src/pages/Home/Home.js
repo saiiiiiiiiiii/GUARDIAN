@@ -134,7 +134,7 @@ const Home = () => {
                 <h5 className="sub-text" style={{fontWeight:"900"}}>
                     Want to learn more about GuardianLink platform?
                 </h5>
-                <a className="btn" style={{marginLeft:"32rem"}}> Schedule A Meeting</a>
+                <a className="btn"> Schedule A Meeting</a>
                 </div>
                 <div className="marketplace-image">
                     <img src="https://cdn.guardianlink.io/product-hotspot/images/marketplace_hand.png" alt="marketplace.png"/>
