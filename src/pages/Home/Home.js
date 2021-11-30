@@ -57,7 +57,7 @@ const Home = () => {
                 <div className="container">
                     <div className="section-heading">
 
-                        <h2 className="main-font">
+                        <h2 className="main-font" >
                             <span className="roun-icon"></span>
                             NFT is ruling the
                             <br />
@@ -67,7 +67,7 @@ const Home = () => {
 
                 </div>
                 <div className="container-2">
-                    <p class="small-width"> With over $2.5 Billion in NFT Sales already, the world is changing at speed of light.
+                    <p class="small-width" style={{color:"white"}}> With over $2.5 Billion in NFT Sales already, the world is changing at speed of light.
                         Brands, Artists, Filmmakers and Athletes all are part of the NFT revolution.For the new generation of digital collectors, 
                         NFT is a new asset class.It is a new tokenization paradigm, which gives you “ the brand”, a leverage to instill a foundation of “authentic” 
                         in your first copies.Create an emotionally charged revenue base for your art, ideas and products.Artists & Athletes, NFT your own ideas,

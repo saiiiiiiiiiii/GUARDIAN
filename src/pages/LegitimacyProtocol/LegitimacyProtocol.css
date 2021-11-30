@@ -1,0 +1,719 @@
+.desk_vid1{
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    object-fit: cover;
+    z-index: 0;
+     }
+
+     .section-b1 h1{
+         position:absolute;
+         display: flex;
+         top: 7em;
+  margin-left:7em;
+  width: 60%;
+  font-weight: 900;
+  font-size: 3rem;
+  color:white;
+     }
+     .section-b1 p{
+        position:absolute;
+        display: flex;
+        top: 16.9em;
+ margin-left:8em;
+ width: 70%;
+ font-weight: 200;
+ font-size: 1.5rem;
+
+    }
+    .section-b1{
+        border-bottom: 1px solid white;
+    }
+    .section-b2 h1{
+        font-size: 4rem;
+        color: white;
+        float: left;
+        max-width:30%;
+        display: flex;
+        margin-left: 5rem;
+        padding-top: 3rem;
+    }
+    .column1-b2{
+        width:28%;
+        height:14rem;
+        margin-left:5rem ;
+        margin-top: 14rem;
+        position: relative;
+        border-top: 10px solid;
+        color:black;
+        border-color: purple;
+        
+    }
+    .column1-b2:hover{
+        background-color: purple;
+        color: white;
+    }
+    .section-b2 .column1-b2 div{
+        color: white;
+        font-size: 1.4rem;
+        white-space: nowrap;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column1-b2 .text-tag{
+        
+        margin-top:1.3rem;
+        color:inherit;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+   
+      .column2-b2{
+        width:28%;
+        height:14rem;
+        margin-left:35rem ;
+        margin-top: -14rem;
+        position: relative;
+        border-top: 10px solid;
+        color:black;
+        border-color: #dea928;
+        
+    }
+    .column2-b2:hover{
+        background-color:#dea928 ;
+        color:white;
+    }
+    .section-b2 .column2-b2 div{
+        color: white;
+        font-size: 1.4rem;
+        white-space: nowrap;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column2-b2 .text-tag{
+        color: inherit;
+        margin-top:1.3rem;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+  
+      .column3-b2{
+        width:28%;
+        height:14rem;
+        margin-left:65rem ;
+        margin-top: -14rem;
+        position: relative;
+        border-top: 10px solid;
+        color: black;
+        border-color: #4974a5;
+        
+    }
+    .column3-b2:hover{
+        background-color: #4974a5;
+        color: white;
+    }
+    .section-b2 .column3-b2 div{
+        color: white;
+        font-size: 1.4rem;
+        white-space: nowrap;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column3-b2 .text-tag{
+        color: inherit;
+        margin-top:1.3rem;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+  
+    
+      .column4-b2{
+        width:28%;
+        height:14rem;
+        margin-left:5rem ;
+        margin-top: 7rem;
+        position: relative;
+        border-top: 10px solid;
+        color:black;
+        border-color: #0db557;
+        
+    }
+    .column4-b2:hover{
+        background-color: #0da857;
+        color: white;
+    }
+    .section-b2 .column4-b2 div{
+        color: white;
+        font-size: 1.4rem;
+        white-space: nowrap;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column4-b2 .text-tag{
+        color: inherit;
+        margin-top:1.3rem;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+   
+      .column5-b2{
+        width:28%;
+        height:14rem;
+        margin-left:35rem ;
+        margin-top: -14rem;
+        position: relative;
+        border-top: 10px solid;
+        border-color: #8f4840;
+        
+        
+    }
+    .section-b2 .column5-b2 div{
+        color: white;
+        font-size: 1.4rem;
+        white-space: nowrap;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column5-b2 span{
+        color: white;
+        margin-top:1.3rem;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+    .column6-b2{
+        width:28%;
+        height:14rem;
+        margin-left:65rem ;
+        margin-top: -14rem;
+        position: relative;
+        border-top: 10px solid;
+        color: black;
+        border-color: #4974a5;
+        
+    }
+    .column6-b2:hover{
+        background-color: #4974a5;
+        color: white;
+    }
+    .section-b2 .column6-b2 div{
+        font-size: 1.4rem;
+        white-space: nowrap;
+        color: white;
+        margin-top: 1rem;
+        margin-left: 1rem;
+
+    }
+    .section-b2 .column6-b2 .text-tag{
+        margin-top:1.3rem;
+        color: inherit;
+        margin-left: 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        
+        text-align: justify;
+        float: left;
+    }
+   
+   .section-b2{
+       border-bottom: 1px solid white;
+   }
+   .section-b3 img{
+       width:40%;
+       height: 26rem;
+       float: left;
+       margin-left: 4rem;
+   }
+   .section-b3 h1{
+      float: right;
+      margin-right: 15rem;
+      margin-top: 6rem;
+      font-size: 4rem;
+   }
+   .section-b3 p{
+       max-width: 38%;
+       color: white;
+       float: right;
+       margin-top: 4rem;
+       margin-right: 15rem;
+       font-size: 1.4rem;
+   }
+   .section-b3{
+       padding-bottom: 34rem;
+    border-bottom: 1px solid white;
+}
+.section-b4 h1{
+    padding-top: 3rem;
+    margin-left: 4rem;
+    font-size: 4rem;
+    max-width: 59%;
+    color: white;
+}
+.section-b4 p{
+    margin-top: 2rem;
+    margin-left: 4rem;
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 200;
+}
+.column1-b4{
+    width:28%;
+    height:25rem;
+    margin-left:5rem ;
+    margin-top: 3rem;
+}
+.square1{
+    
+        height: 6rem;
+        width: 6rem;
+        background-color: #7a49a5;
+        margin-left: 2em;
+        position: relative;
+        top: 2rem;
+        border-radius: 1.5625rem;
+        
+      }
+      .img1-b4{
+          height: 6rem;
+          width: 5.5rem;
+          padding-top: 1em;
+      }
+      .section-b4 .main-b4{
+          margin-left: 2rem;
+          margin-top: 3rem;
+          color: white;
+          padding-top: 1em;
+      }
+      .section-b4 .para1-b4{
+        margin-left:2rem;
+        margin-top: 3rem;
+        color: white;
+        margin-top: 1rem;
+        text-align: justify;
+      }
+      .column2-b4{
+        width:28%;
+        height:25rem;
+        margin-left:34rem ;
+        margin-top: -25rem;
+    }
+    .square2{
+        
+            height: 6rem;
+            width: 6rem;
+            background-color: #dea928;
+            margin-left: 2em;
+            position: relative;
+            top: 2rem;
+            border-radius: 1.5625rem;
+            
+          }
+          .img2-b4{
+              height: 6rem;
+              width: 5.5rem;
+              padding-top: 1em;
+          }
+          .section-b4 .main2-b4{
+              margin-left: 2rem;
+              margin-top: 3rem;
+              color: white;
+              padding-top: 1em;
+          }
+          .section-b4 .para2-b4{
+            margin-left:2rem;
+            margin-top: 3rem;
+            color: white;
+            margin-top: 1rem;
+            text-align: justify;
+          }
+          .column3-b4{
+            width:28%;
+            height:25rem;
+            margin-left:63rem ;
+            margin-top: -25rem;
+        }
+        .square3{
+            
+                height: 6rem;
+                width: 6rem;
+                background-color: #4974a5;
+                margin-left: 2em;
+                position: relative;
+                top: 2rem;
+                border-radius: 1.5625rem;
+                
+              }
+              .img3-b4{
+                  height: 6rem;
+                  width: 5.5rem;
+                  padding-top: 1em;
+              }
+              .section-b4 .main3-b4{
+                  margin-left: 2rem;
+                  margin-top: 3rem;
+                  color: white;
+                  padding-top: 1em;
+              }
+              .section-b4 .para3-b4{
+                margin-left:2rem;
+                margin-top: 3rem;
+                color: white;
+                margin-top: 1rem;
+                text-align: justify;
+              }
+    
+              .column4-b4{
+                width:28%;
+    height:25rem;
+    margin-left:5rem ;
+    margin-top: 3rem;
+            }
+            .square4{
+                
+                    height: 6rem;
+                    width: 6rem;
+                    background-color: #8f4849;
+                    margin-left: 2em;
+                    position: relative;
+                    top: 2rem;
+                    border-radius: 1.5625rem;
+                    
+                  }
+                  .img4-b4{
+                      height: 6rem;
+                      width: 5.5rem;
+                      padding-top: 1em;
+                  }
+                  .section-b4 .main4-b4{
+                      margin-left: 2rem;
+                      margin-top: 3rem;
+                      color: white;
+                      padding-top: 1em;
+                  }
+                  .section-b4 .para4-b4{
+                    margin-left:2rem;
+                    margin-top: 3rem;
+                    color: white;
+                    margin-top: 1rem;
+                    text-align: justify;
+                  }
+        
+        
+                  .column5-b4{
+                    width:28%;
+                    height:25rem;
+                    margin-left:34rem ;
+                    margin-top: -25rem;
+                }
+                .square5{
+                    
+                        height: 6rem;
+                        width: 6rem;
+                        background-color: #0da857;
+                        margin-left: 2em;
+                        position: relative;
+                        top: 2rem;
+                        border-radius: 1.5625rem;
+                        
+                      }
+                      .img5-b4{
+                          height: 6rem;
+                          width: 5.5rem;
+                          padding-top: 1em;
+                      }
+                      .section-b4 .main5-b4{
+                          margin-left: 2rem;
+                          margin-top: 3rem;
+                          color: white;
+                          padding-top: 1em;
+                      }
+                      .section-b4 .para5-b4{
+                        margin-left:2rem;
+                        margin-top: 3rem;
+                        color: white;
+                        margin-top: 1rem;
+                        text-align: justify;
+                      }
+                      .column6-b4{
+                        width:28%;
+                        height:25rem;
+                        margin-left:63rem ;
+                        margin-top: -25rem;
+                    }
+                    .square6{
+                        
+                            height: 6rem;
+                            width: 6rem;
+                            background-color: #542dfa;
+                            margin-left: 2em;
+                            position: relative;
+                            top: 2rem;
+                            border-radius: 1.5625rem;
+                            
+                          }
+                          .img6-b4{
+                              height: 6rem;
+                              width: 5.5rem;
+                              padding-top: 1em;
+                          }
+                          .section-b4 .main6-b4{
+                              margin-left: 2rem;
+                              margin-top: 3rem;
+                              color: white;
+                              padding-top: 1em;
+                          }
+                          .section-b4 .para6-b4{
+                            margin-left:2rem;
+                            margin-top: 3rem;
+                            color: white;
+                            margin-top: 1rem;
+                            text-align: justify;
+                          }
+                          .section-b4{
+                              padding-bottom: 3rem;
+                              border-bottom: 1px solid white;
+                          }
+                          .section-b5 .column1{
+                            float:left;
+                            margin-left: 3rem;
+                            width: 26%;
+                            height:17rem;
+                            margin-top: 5em;
+                        }
+                        .section-b5 .logo{
+                            width:16rem;
+                            height:16rem;
+                            margin-top: -6rem;
+                            margin-left: 3rem;
+                            
+                        }
+                        .section-b5 .para{
+                            margin-left: 3rem;
+                            color:white;
+                            margin-top: -3rem;
+                            
+                        }
+                        .section-b5 .main-font{
+                            margin-top: 1rem;
+                            margin-left:3rem;
+                            color:white;
+                            font-size: 1.4rem;
+                        }
+                        .section-b5 .discord{
+                            margin-left: 3rem;
+                            margin-top:1rem;
+                        }
+                        .section-b5 .telegram{
+                            margin-left: 0.4rem;
+                            margin-top:1rem;
+                        }
+                        .section-b5 .twitter{
+                            margin-left: 0.4rem;
+                            margin-top:1rem;
+                        }
+                        .section-b5 .column2{
+                            float:left;
+                            margin-left: 3rem;
+                            width: 15%;
+                            height:17rem;
+                            margin-top: 5em;
+                            
+                        }
+                        .section-b5 .vl{
+                            border-left:2px solid white;
+                            height:10rem;
+                            margin-left: 12rem;
+                            margin-top: -10rem;
+                        }
+                        .section-b5 ul {
+                           list-style-type: none;
+                           margin-top: 3rem;
+                           line-height: 1.7;
+                        }
+                        .section-b5 .item1{
+                            text-decoration: none;
+                            color:white
+                        }
+                        .section-b5 .item1:hover{
+                            color: red;
+                        }
+                        .section-b5 .item2{
+                            text-decoration: none;
+                            color:white;
+                            
+                        }
+                        .section-b5 .item2:hover{
+                            color: red;
+                        }
+                        .section-b5 .item3{
+                            text-decoration: none;
+                            color:white;
+                            
+                        }
+                        .section-b5 .item3:hover{
+                            color: red;
+                        }
+                        .section-b5 .item4{
+                            text-decoration: none;
+                            color:white;
+                            
+                        }
+                        .section-b5 .item4:hover{
+                            color: red;
+                        }
+                        .section-b5 .item5{
+                            text-decoration: none;
+                            color:white;
+                            
+                        }
+                        .section-b5 .item5:hover{
+                            color: red;
+                        }
+                        .section-b5 .item6{
+                            text-decoration: none;
+                            color:white;
+                            cursor: pointer;
+                            
+                        }
+                        .section-b5 .item6:hover{
+                            color: red;
+                        }
+                        .section-b5 .column3{
+                            float:left;
+                            margin-left: 3rem;
+                            width: 40%;
+                            height:17rem;
+                            margin-top: 5em;
+                        }
+                        .section-b5 .roun_icon{
+                            vertical-align:middle;
+                            position:relative;
+                            top:0.1rem;
+                            width: 2.4rem;
+                            height: 2.4rem;
+                            background:white;
+                            border: 0.4rem solid red;
+                            border-radius:50%;
+                            z-index:2;
+                            margin-left: 10.7em;
+                            max-width:20%;
+                            margin-top:4rem;
+                            right:1rem;
+                        }
+                        .section-b5 .col3-main-font{
+                            margin-left: 12.5rem;
+                            font-size: 1.7rem;
+                            margin-top: -2.3rem;
+                        }
+                        .section-b5 .col-3-para{
+                         font-size: 1rem;
+                         color:white;
+                         margin-left:12.5rem;
+                         margin-top: 0.4rem;
+                        
+                        }
+                        .section-b5 .col3-main-font2{
+                            color: white;
+                            margin-top: 1.6rem;
+                            margin-left: 22rem;
+                        
+                        }
+                        .news__form1 {
+                            
+                            align-items: center;
+                            margin-top: 1.6rem;
+                            
+                            margin-left: 15.6rem;
+                            
+                            height:1rem;
+                         }
+                         
+                         input[type="email"] {
+                            border: 0;
+                            outline: 0;
+                            padding-right: 0.3rem;
+                            border-radius: 3px;
+                            border: 1px solid #8f94a1;
+                           
+                         }
+                         
+                         .news__btn1 {
+                            border: none;
+                            outline: none;
+                            background: transparent;
+                            background-color: #FF6347;
+                            padding: 1rem 1rem;
+                            color: white;
+                            border-radius: 3px;
+                            cursor: pointer;
+                            
+                         }
+                         .section-b5{
+                             padding-bottom: 24rem;
+                         }
+                         .container-icons-b6{
+                            position: fixed;
+                            top: 0;
+                            left: 0;
+                            right: 0;
+                            z-index: 9999;
+                            width: 5%;
+                            height: 14rem;
+                            margin-top: 19rem;
+                            margin-left: 90rem;
+                            
+                        }
+                        .container-icons-b6 .icon1{
+                            margin-left:2em;
+                            background-color: white;
+                            border-radius: 10%;
+                            padding-top: 1%;
+                            margin-top:0rem;
+                            height:2rem;
+                            width: 2rem;
+                        }
+                        .container-icons-b6 .icon2{
+                            margin-left:2em;
+                            background-color: white;
+                            border-radius: 10%;
+                            padding-top: 1%;
+                            margin-top:1em;
+                            height:2rem;
+                            width: 2rem;
+                        }
+                        .container-icons-b6 .icon3{
+                            margin-left:2em;
+                            background-color: white;
+                            border-radius: 10%;
+                            padding-top: 1%;
+                            margin-top:1em;
+                            height:2rem;
+                            width: 2rem;
+                        }
+                        
