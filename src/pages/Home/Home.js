@@ -77,7 +77,7 @@ const Home = () => {
                         Built your NFT market place in minutes with Guardian Link.
                     </h1>
                     <p style={{ color: "#202020", fontWeight: "lighter" }}>No Mess. No clutter. Only you</p>
-                    <a className="btn"> Join the Revolution</a>
+                    <a className="btn" >Join the Revolution</a>
                     <div className="sub-form">
                         <h4>I'm interested</h4>
                         <p>Be the first to hear the Guardian's updates.</p>
@@ -509,6 +509,7 @@ const Home = () => {
                 </a>
 
             </div>
+            
             
            </> 
     ) 
